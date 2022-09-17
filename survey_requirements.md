@@ -1,11 +1,12 @@
 # Questions and Implications
 
-We ask a total of 10 questions, each have four answers.
-Each question has a set of "mood hooks" attached to it. For example, a question
-could as the user why they're looking for a meme/gif, and their response would
-light up certain values in a dictionary, i.e. jovial, which would be saved to 
-the input list, which is then fed into the machine learning algorithm which 
-predicts an output for the user.
+We ask a total of 10 questions, each have four answers. For each question, there
+are a number of category "hooks" attached to it. So for an example, a question 
+could light up as playful, fun, and happy. We then give all of this data to our 
+model, and then that just tries to classify what the user wants. So if it comes
+out saying 67% dog, then we do a search of the giphy API for dog images. If the 
+user says no, we can do a search for the keyword with the next highest amount of 
+confidence from the model.
 
 We could also go "buzzfeed style". We ask the users to select from a number of 
 gif/memes. We then use the pixel values of these images as the inputs into a 
