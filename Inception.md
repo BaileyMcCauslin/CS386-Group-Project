@@ -12,14 +12,23 @@
 ## Interviews summary
 
 ### Interview 1
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
+> * Interviewee: My roommate ( Lou )
+> * Interviewer(s): Andrew Usvat
+> * Date: September 17, 2022
+> * Customer Segment: Lou thought that the key part of the website was generally a good idea, he mentioned that this software is a lot like ifunny and other platforms that try and do the same thing. He mentioned that every type of meme (joke) site like this has an algorithm usually attached to it to get users to come back and enjoy the content provided for them. On the downside, sites like these will sometimes be hard to monetize and actually gather funds from users due to the fact that people are not willing to spend money on a monthly subscription. Rather users will either generally pay for ad free content or be bombarded by a couple aps which gives the creators compensation.
 > * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+ 
+- the main idea of the project is decent because there's not tons of competition
+- the idea of making money off the project is manageable but can be viewed as a downside.
+- the algorithm is what what will make the biggest differentiation across different meme platforms.
 
+> * Representative quotes:
+ “ I think that the platform could work but there is also already some competition out there”
+“ the algorithm is definitely will make your site unique, if it works correctly”
+“ generally I believe this should be viewed as more of project to provide the community with entertainment rather than actually owning an actual business and making tons of money from it”.
+
+> * Assessment:
+The interviewee sees the project as something that could potentially be nice to have as a website. He also mentioned that it is something that is obviously not a “Must have” as there is not a huge impact the project could have and that there are also other sites like this already.
 
 ### Interview 2
 > * Interviewee:
