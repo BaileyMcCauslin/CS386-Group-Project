@@ -61,22 +61,37 @@
 6) **Assessment:**
 > In conclusion, our product would be labled as a nice to have product. It is a convience to have for a neich group of people like Josh. Josh gave me some great insight into confirming our hypothesis that other meme applications show the user content they don't want to see. He also made a good point that we may need more/better features than already existing applications in order for a user to switch to our application.
 ### Interview 3
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
-> * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+1) **Interviewee:** 
+> Alex (roommate)
+> 
+2) **Interviewer(s):**
+>  Nick
+>  
+3) **Date:** 
+> 09/21/2022
+> 
+4) * Customer Segment: 
+5) * Key insights from the interview:
+6) * Representative quotes:
+7) * Assessment:
 
 ### Interview 4
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
-> * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+1) **Interviewee:**
+> Dylan (roommate)
+2) **Interviewer(s):**
+> Nick 
+3) **Date:** 
+> 09/21/2022
+4) **Customer Segment:** 
+> Dylan is a meme enthusist and can easily relate our team's idea to the iFunny application. His issue with iFunny is that is does not filter memes unless the user explicitly specifies it, which causes him to see memes he is not interested in or does not find funny or entertaining. He finds the idea conviniet that the website would automatticaly filter the memes that he enjoys since the meme viewing experience it typically casual and the user does not want to put effort into using it.
+5) **Key insights from the interview:**
+> * This confirms that the hypothesis of having the filtering feature add value to the website in the way of having a more convienitant, accessable meme viewing experience.
+> * It may be valuable to include a featured section which gives users the opportunity to view the new trendiest memes.
+6) **Representative quotes:**
+> * "iFunny is a great app, however, there is a lot of random stuff and is not very filtered and I have to search meme categories if i want to see that category" 
+> * "If a website/app could feature all the categories I watch and enjoy into one single feed, that would be amazing"
+7) **Assessment:**
+> Overall, from Dylan's perspective, the Gif Machine would be classified as a "nice to have" product. Dylan provided great insight about the idea heading in the right direction and provided some valuable ideas and features that would add extra value to the product. Our product is on the right track and will be more effective at its intedend use if we are able to implement the ideas he had. 
 
 ### Interview 5
 > * Interviewee:
