@@ -60,23 +60,57 @@
 
 6) **Assessment:**
 > In conclusion, our product would be labled as a nice to have product. It is a convience to have for a neich group of people like Josh. Josh gave me some great insight into confirming our hypothesis that other meme applications show the user content they don't want to see. He also made a good point that we may need more/better features than already existing applications in order for a user to switch to our application.
+
+
 ### Interview 3
-> * Interviewee:
+> * Interviewee: 
+> * Andrew Kendall ( masters student )
+
 > * Interviewer(s): 
+> * Cody Beck
+
 > * Date: 
+> * 9/22/2022
+
 > * Customer Segment: 
+> * Andrew is a masters student in his early 20s studying electrical engineering. He often likes to use GIFs and memes to joke around while texting his family and friends. He does not use social media much, but he does carry conversations over text quite often, and has a need to a place to memes and GIFS. 
+
 > * Key insights from the interview:
+> * Andrew uses an app on his phone called GIFKeyboard to gather GIFs and memes to send to his friends. He feels like the experience is very boilerplate, and wishes that there were more GIFs that felt personal to his use and experience with this form of media.
+> * Andrew thinks that the GIFs selection process is too slow. He feels as though this sort of thing - quickly firing off a GIF in a text chain - needs to be snappy for the joke to really take effect.
+
 > * Representative quotes:
+> * "I wish that GIFKeyboard would have a selection of GIFs at my disposal that would let me use them without having to search through a long list of GIFs."
+> * "[GIFKeyboard] is more of a generalized experience. I want something personal" 
 > * Assessment:
+> * Users like Andrew would like a more personalized experience when they're searching for GIFs. They also want to find their GIFs and memes quickly. Andrew made a point that it felt as though he was spending too long to find the right joke, and by then the conversation in the text chain with his friends would have already shifted to something new. His case shows that for the most part, our product would sit firmly in the nice to have category. Andrew obviously wants to have a better experience, but doesn't feel like he's being weighed down to much by his options. However, with the right set of features, we could move into the must have for avid GIF and meme senders.
+
 
 ### Interview 4
 > * Interviewee:
+> * Mikael Purne ( climbing partner )
+
 > * Interviewer(s): 
+> * Cody Beck
+
 > * Date: 
-> * Customer Segment: 
+> * 9/20/2022
+
+> * Customer Segment:
+> * Mikael is an undergraduate student in his early 20s. He is an avid user of GIFs and memes. He often sends this type of media to "just about everybody" through text chains, snapchat messages, DMs, and social media. He is the type of user that we are targeting.
+
 > * Key insights from the interview:
+> * Most people, including Mikael, rely on the built-in GIF search feature of iMessage. It does not have a very wide selection of GIFs, and sometimes, it just does not work. Mikael would switch to a different product if it had a wider selection and did not have the same bugs.
+> * He feels like searching for GIFs is really long and somewhat arduous for the returns he is seeing. Mikael feels as if the GIFs he is presented with by iMessage does not match the context of the messages he is trying to send, and feels like he is wasting time.
+> * We initially thought our target age range would be in the 18-30ish range, but Mikael says he exchanges GIFs with people of all ages, meaning our customer segment could be even larger.
+
 > * Representative quotes:
+> * "A lot of the time I'm just getting these goofy GIFs, and it just doesn't match the context of what I'm trying to say."
+> * "I send GIFs to others from age 6 to 73."
+
 > * Assessment:
+> * For Mikael, an avid GIF user who claims to send 20 a day, our product would be a must have. For him, having a personalized experience would allow his to send this form of media much faster, and would help him get his point across. He often uses GIFs to make a point in text chains with friends, whether to make a joke or to drive home an argument. Mikael wants a better experience, and he hopes that we can present that for him.
+
 
 ### Interview 5
 > * Interviewee:
