@@ -60,41 +60,96 @@
 
 6) **Assessment:**
 > In conclusion, our product would be labled as a nice to have product. It is a convience to have for a neich group of people like Josh. Josh gave me some great insight into confirming our hypothesis that other meme applications show the user content they don't want to see. He also made a good point that we may need more/better features than already existing applications in order for a user to switch to our application.
+
+
 ### Interview 3
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
-> * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+1) Interviewee: 
+> Andrew Kendall ( masters student )
+
+2) Interviewer(s): 
+> Cody Beck
+
+3) Date: 
+> 9/22/2022
+
+4) Customer Segment: 
+> Andrew is a masters student in his early 20s studying electrical engineering. He often likes to use GIFs and memes to joke around while texting his family and friends. He does not use social media much, but he does carry conversations over text quite often, and has a need to a place to memes and GIFS. 
+
+5) Key insights from the interview:
+> * Andrew uses an app on his phone called GIFKeyboard to gather GIFs and memes to send to his friends. He feels like the experience is very boilerplate, and wishes that there were more GIFs that felt personal to his use and experience with this form of media.
+> * Andrew thinks that the GIFs selection process is too slow. He feels as though this sort of thing - quickly firing off a GIF in a text chain - needs to be snappy for the joke to really take effect.
+
+6) Representative quotes:
+> * "I wish that GIFKeyboard would have a selection of GIFs at my disposal that would let me use them without having to search through a long list of GIFs."
+> * "[GIFKeyboard] is more of a generalized experience. I want something personal" 
+7) Assessment:
+> Users like Andrew would like a more personalized experience when they're searching for GIFs. They also want to find their GIFs and memes quickly. Andrew made a point that it felt as though he was spending too long to find the right joke, and by then the conversation in the text chain with his friends would have already shifted to something new. His case shows that for the most part, our product would sit firmly in the nice to have category. Andrew obviously wants to have a better experience, but doesn't feel like he's being weighed down to much by his options. However, with the right set of features, we could move into the must have for avid GIF and meme senders.
+
 
 ### Interview 4
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
-> * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+1) Interviewee:
+> Mikael Purne ( climbing partner )
+
+2) Interviewer(s): 
+> Cody Beck
+
+3) Date: 
+> 9/20/2022
+
+4) Customer Segment:
+> Mikael is an undergraduate student in his early 20s. He is an avid user of GIFs and memes. He often sends this type of media to "just about everybody" through text chains, snapchat messages, DMs, and social media. He is the type of user that we are targeting.
+
+5) Key insights from the interview:
+> * Most people, including Mikael, rely on the built-in GIF search feature of iMessage. It does not have a very wide selection of GIFs, and sometimes, it just does not work. Mikael would switch to a different product if it had a wider selection and did not have the same bugs.
+> * He feels like searching for GIFs is really long and somewhat arduous for the returns he is seeing. Mikael feels as if the GIFs he is presented with by iMessage does not match the context of the messages he is trying to send, and feels like he is wasting time.
+> * We initially thought our target age range would be in the 18-30ish range, but Mikael says he exchanges GIFs with people of all ages, meaning our customer segment could be even larger.
+
+6) Representative quotes:
+> * "A lot of the time I'm just getting these goofy GIFs, and it just doesn't match the context of what I'm trying to say."
+> * "I send GIFs to others from age 6 to 73."
+
+7) Assessment:
+> For Mikael, an avid GIF user who claims to send 20 a day, our product would be a must have. For him, having a personalized experience would allow his to send this form of media much faster, and would help him get his point across. He often uses GIFs to make a point in text chains with friends, whether to make a joke or to drive home an argument. Mikael wants a better experience, and he hopes that we can present that for him.
+
 
 ### Interview 5
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
-> * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+1) **Interviewee:** 
+> Alex (roommate)
+> 
+2) **Interviewer(s):**
+>  Nick
+>  
+3) **Date:** 
+> 09/21/2022
+> 
+4) Customer Segment: 
+> Alex enjoys spending some of his free time viewing memes as a means of entertainment. Having access to memes that cater to him is something that he finds important during his meme viewing experience. Alex doesn't feel like the other methods of viewing memes have a good system for filtering out memes he would not find funny. It would be convenient to have a way to view memes on a webpage since he is often times on his computer. 
+5) Key insights from the interview:
+> * Alex's view on the website confirms the hypothesis of the filtering system being convenient and a "nice to have" feature that saves him time and effort.
+> * Even though Alex is commonly on his computer, having a version of the application for mobile devices would be a nice addon.
+6) Representative quotes:
+> * "This website would show me exactly what memes I would want to see which is a welcomed feature."
+> * "Having that application as a webiste would be super convenient since I am on my computer all the time, but having access to the same memes on my phone would be even better!"
+7) Assessment:
+> Alex is a fan of our idea for the Gif Machine and he would considered the product as "nice to have". His idea of having there be a website and a mobile app is insightful and implementing that idea could be done if the website version proves successful. He would appreciate having a place where he can view memes and have every single one that he views be entertaining and funny to him.
 
 ### Interview 6
-> * Interviewee:
-> * Interviewer(s): 
-> * Date: 
-> * Customer Segment: 
-> * Key insights from the interview:
-> * Representative quotes:
-> * Assessment:
+1) **Interviewee:**
+> Dylan (roommate)
+2) **Interviewer(s):**
+> Nick 
+3) **Date:** 
+> 09/21/2022
+4) **Customer Segment:** 
+> Dylan is a meme enthusist and can easily relate our team's idea to the iFunny application. His issue with iFunny is that is does not filter memes unless the user explicitly specifies it, which causes him to see memes he is not interested in or does not find funny or entertaining. He finds the idea conviniet that the website would automatticaly filter the memes that he enjoys since the meme viewing experience it typically casual and the user does not want to put effort into using it.
+5) **Key insights from the interview:**
+> * This confirms that the hypothesis of having the filtering feature add value to the website in the way of having a more convienitant, accessable meme viewing experience.
+> * It may be valuable to include a featured section which gives users the opportunity to view the new trendiest memes.
+6) **Representative quotes:**
+> * "iFunny is a great app, however, there is a lot of random stuff and is not very filtered and I have to search meme categories if I want to see that category" 
+> * "If a website/app could feature all the categories I watch and enjoy into one single feed, that would be amazing"
+7) **Assessment:**
+> Overall, from Dylan's perspective, the Gif Machine would be classified as a "nice to have" product. Dylan provided great insight about the idea heading in the right direction and provided some valuable ideas and features that would add extra value to the product. Our product is on the right track and will be more effective at its intedend use if we are able to implement the ideas he had. 
 
 ## Final value proposition and consumer segments
->
+> Gif Machine is an online application that will give users a personal meme viewing experience that is tailored to them. The value of the application is giving users that personal aspect along with providing convenience. Our customer segmant will consist primarily of younger people (approx. 12-25), but it will also include people of all ages that use social media. 
