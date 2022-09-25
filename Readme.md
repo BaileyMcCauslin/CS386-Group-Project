@@ -6,5 +6,4 @@ Design and implement a Web-based program that allows users to create memes.
   - Andrew Usvat
   - Nick Henderson
   - Bailey McCauslin
-## Communication
-Communication information can be found [here](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/Communication.md).
+
