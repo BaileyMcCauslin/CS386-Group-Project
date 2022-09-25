@@ -152,4 +152,4 @@
 > Overall, from Dylan's perspective, the Gif Machine would be classified as a "nice to have" product. Dylan provided great insight about the idea heading in the right direction and provided some valuable ideas and features that would add extra value to the product. Our product is on the right track and will be more effective at its intedend use if we are able to implement the ideas he had. 
 
 ## Final value proposition and consumer segments
->
+> Gif Machine is an online application that will give users a personal meme viewing experience that is tailored to them. The value of the application is giving users that personal aspect along with providing convenience. Our customer segmant will consist primarily of younger people (approx. 12-25), but it will also include people of all ages that use social media. 
