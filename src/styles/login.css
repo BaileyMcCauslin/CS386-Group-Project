@@ -1,0 +1,27 @@
+.page {
+    background-color: black;
+}
+.main-login-card {
+    height: 75%;
+    width: 35%;
+    background-color: aqua;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.email-input {
+    border-radius: 2px;
+}
+
+.login-btn {
+    height: 20px;
+    width: 20%;
+    margin-top: 20px;
+}
+.password-input {
+    border-radius: 2px;
+}
