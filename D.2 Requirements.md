@@ -20,16 +20,23 @@
 
 # 3. Functional requirements (features)
 
-  > * Accuracy - Our product must provide images to the testers/users that match their needs at least 85% of the time.
-  > * Efficiency - At least 90% of our testers/users should feel that the matches the speed of their social media messaging, allowing them to send gifs/memes at the speed of their conversations.
-  > * Security (if we use accounts) - At least 95% of testers/users feel comfortable with the level of security we use to protect their data (i.e. hashing passwords)
-  > * Usability - At least 85% of our users/testers find the application is easy to navigate and use.
-  > * Sharability - At least 95% of our users/testers find that it is easy to send gifs/memes found on our site to others.
-  > * Documentation - At least 95% of experienced software engineers find that our code and software architecture is well documented and easy to follow.
-  > * Reachability - Our website will accept requests from 99% of users/testers, meaning that we will never go down.
+  > * Gifs can be shared to others by the user
+  > * An account can be created by the user
+  > * An account can be logged into by the user
+  > * Gifs can be viewed by the user
+  > * The next of previous gif can be viewed by the user
+  > * A survey can be completed to determine gif preferences by the user
+  > * The survey can be recompleted by the user
 
 # 4. Non-functional requirements
 
+> * Accuracy - Our product must provide images to the testers/users that match their needs at least 85% of the time.
+> * Efficiency - At least 90% of our testers/users should feel that the matches the speed of their social media messaging, allowing them to send gifs/memes at the speed of their conversations.
+> * Security (if we use accounts) - At least 95% of testers/users feel comfortable with the level of security we use to protect their data (i.e. hashing passwords)
+> * Usability - At least 85% of our users/testers find the application is easy to navigate and use.
+> * Sharability - At least 95% of our users/testers find that it is easy to send gifs/memes found on our site to others.
+> * Documentation - At least 95% of experienced software engineers find that our code and software architecture is well documented and easy to follow.
+> * Reachability - Our website will accept requests from 99% of users/testers, meaning that we will never go down.
 > * Reusability - We want to make sure that the user can reuse the web application without it breaking and getting stale for the user. To test this we will use the    application everyday for a week to see if the reusability is an issue. 
 > * Reliability - We want the application to be reliable for the user so it’s not frustrating for the user to use.  If the web app is not reliable the user will most likely use it to avoid frustration. To test this we all test the application at once to see if it crashes/performance issues. 
 > * Safety - We want to make sure that the user is protected from any sort of security breaches. We will be hashing the user credentials and storing them in firebase. To test that the website is secure we will make sure that the base security measures are intact and aren’t easy to crack. 
