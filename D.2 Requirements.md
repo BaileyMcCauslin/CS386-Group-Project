@@ -38,7 +38,7 @@
 > Our MVP will be a web page that delivers login, sign up, UI, meme delivery, and machine learning algorithm to determine users preferences for content. We will verify all of these features besides the UI (No real need to test  visual components). To test login we will stress test many different scenarios, especially when a user enters incorrect credentials, does not have an account, and doesn’t have a connection. To test the sign up we also test many different configurations of emails and passwords( invalid and valid ones ) and test that it doesn’t allow for the same emails. To test the machine learning algorithm we will stress test it with a lot of different preferences and see the accuracy. We will also feed it skewed data that doesn't really make sense to see how it interacts.
 
 # 6.1. Use Case Diagram
-> ![Use Case Diagram](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/UseCase.JPG)
+> ![Use Case Diagram](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/Deliverable2/UseCase.JPG)
 
 # 6.2. Use Case Description and Interface Sketch
 
