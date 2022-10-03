@@ -74,14 +74,31 @@
 - College student has an account ( if preferences not answered, show all gifs )
 
 **Main Flow**
-- The use case begins when the college student signs in to their account
+- The use case begins when the college student signs into their account
 - The college student cycles through the gifs that the website provides
 - The use case ends when the college student exit the website or sign out
 
 **Alternative Flow**:
-- College Students can send a specific gif to friend(s)
+- College students can send a specific gif to friend(s)
 
 **Post Condition**: The college student is entertained by gifs that they find entertaining and have a higher quality gif viewing experience and can be satisfied that the GIF sent to friend is sent and received
+
+**Use Case** : Fill out gif survey\
+**Actor**: College Student\
+**Description**: The college student will be able to complete a survey to find their gif preferences.
+**Pre-Condition(s)**:
+- College student has an account
+
+**Main Flow**
+- The use case begins when the college studnet signs into their account
+- The college student decides to fill out the survey to generate gif preferences
+- The college student answers each question in the survey
+- The use case ends when the college student finishes the survey
+
+**Alternative Flow**:
+- College student can decide to view a random gif by not completing the survey
+
+**Post Conditions**: The college student has been prescibed an attribute by which to generate gifs for them.
 
 
 ## Sketch: 
