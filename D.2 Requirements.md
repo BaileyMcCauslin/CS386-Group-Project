@@ -36,3 +36,44 @@
 
 # 5. MVP <br>
 > Our MVP will be a web page that delivers login, sign up, UI, meme delivery, and machine learning algorithm to determine users preferences for content. We will verify all of these features besides the UI (No real need to test  visual components). To test login we will stress test many different scenarios, especially when a user enters incorrect credentials, does not have an account, and doesn’t have a connection. To test the sign up we also test many different configurations of emails and passwords( invalid and valid ones ) and test that it doesn’t allow for the same emails. To test the machine learning algorithm we will stress test it with a lot of different preferences and see the accuracy. We will also feed it skewed data that doesn't really make sense to see how it interacts.
+
+# 6.1. Use Case Diagram
+> ![Use Case Diagram](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/UseCase.JPG)
+
+# 6.2. Use Case Description and Interface Sketch
+
+**Use Case** : View personalized gif\
+**Actor**: College student\
+**Description**: The college student views gifs that are personalized to their humor preferences\
+**Pre-Condition(s)**:
+- College student has an account
+- College student has completed the personalization survey
+
+**Main Flow**:
+- The use case begins when the college student signs in to their account
+- The college student cycles through the gifs that the website provides
+- The use case ends when the college student exit the website or sign out
+
+**Alternative Flow**:
+- The college student can re-personalize the gifs they see by filling out a new survey
+- The college student sees gifs with their new preferences
+
+**Post Condition**: The college student is entertained by gifs that they find entertaining and have a higher quality gif viewing experience\
+
+## Sketch: 
+ ![UI Example](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/UI%20Example.JPG)
+ 
+# 7. User Stories
+ 
+## College Student: 
+
+- As a college student, I want to view gifs on a website so that I can be entertained.\ (Priority #1; approximately 25 hours)
+- As a college student, I want to be able to view gifs personalized to my humor so that I have a more entertaining gif viewing experience.\
+(Priority #2; approximately 15 hours)		
+- As a college student, I want to be able to share gifs to my friends so they can view gifs that I find entertaining.\
+		(Priority #3; approximately 6 hours)
+
+# 8. Issue Tracker
+![Issue Tracker](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/IssueTracking.JPG)\
+Link: https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/IssueTracking.JPG
+
