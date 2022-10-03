@@ -100,6 +100,20 @@
 
 **Post Conditions**: The college student has been prescibed an attribute by which to generate gifs for them.
 
+**Use Case**: Create an account to save preferences
+**Actor**: College Student
+**Description**: The college student creates an account to be able to access their preferences on the website easily
+**Pre-Condition(s)**: College Student has an account, College student took the survey, College student signs in every time they access the site for more memes.
+	
+**Main Flow**: 
+- Use case start: College students take surveys when signed in, college student view memes, college student likes meme, and college student has a saved   preference.
+-Use case ends when the college student exits the website 
+
+**Alternative Flow**:
+- College student can decide to view a random gif by not completing the survey and or not signing in
+
+**Post Conditions**: The user can come back at any time to view gifs and memes they prefer.
+
 
 ## Sketch: 
  ![UI Example](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/UI%20Example.JPG)
@@ -109,13 +123,15 @@
 - As a college student, I want to be able to view gifs personalized to my humor so that I have a more entertaining gif viewing experience.\
 (Priority #2; approximately 15 hours)
 - As a college student, I want to be able to share gifs to my friends so they can view gifs that I find entertaining.\
-		(Priority #3; approximately 6 hours)
+(Priority #3; approximately 6 hours)
 - As a college student, I want to be able to have my own account so I dont have to answer the survey everytime. 
 (Priority #4; approximately 6 hours)
+-As a college student, I want to be able to have an account to the website that constanstly saves my meme preferences every time I use it when signed in.
+(Priority #5; approximately 3 hours)
 - As a college student, I want to have a smooth experience so I can come back and use the app more frequently without issues. 
-(Priority #5; approximately 2 days)
+(Priority #6; approximately 2 days)
 - As a college student, I want to be able to have variable gif experiences, so that as I am looking for different kinds of humor, the results change.\
-(Priority #6; approximately 3 hours)
+(Priority #7; approximately 3 hours)
 - As a college student, I want to find and share gifs very quickly and efficiently. (Priority #7; approximately 3 hours)
 
 # 8. Issue Tracker
