@@ -100,14 +100,14 @@
 
 **Post Conditions**: The college student has been prescibed an attribute by which to generate gifs for them.
 
-**Use Case**: Create an account to save preferences
-**Actor**: College Student
-**Description**: The college student creates an account to be able to access their preferences on the website easily
-**Pre-Condition(s)**: College Student has an account, College student took the survey, College student signs in every time they access the site for more memes.
+**Use Case**: Create an account to save preferences\
+**Actor**: College Student\
+**Description**: The college student creates an account to be able to access their preferences on the website easily\
+**Pre-Condition(s)**: College Student has an account, College student took the survey, College student signs in every time they access the site for more memes.\
 	
 **Main Flow**: 
-- Use case start: College students take surveys when signed in, college student view memes, college student likes meme, and college student has a saved   preference.
--Use case ends when the college student exits the website 
+- Use case start: College students take surveys when signed in, college student view memes, college student likes meme, and college student has a saved preference.
+- Use case ends when the college student exits the website 
 
 **Alternative Flow**:
 - College student can decide to view a random gif by not completing the survey and or not signing in
