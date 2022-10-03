@@ -15,7 +15,7 @@
  > * College Students: College students often use gifs and memes in social media conversations, so they want to find and send gifs and memes quickly.
  > * Developers: Develop the application, from the machine learning model to the front-end website. The developers may also use the application, serve as testers, work on debugging, and even manage the project.
  > * Competitors: Our main competitor is Giphy, as that is the most commonly used site for getting gifs at the moment. The integrated gif keyboard that is provided by iMessage also serves as competition.
- > * Testers: Testers will be college students who are given early access to our product. Their job is to try to break out product, provide feedback on their results, and use the product before others. Their feedback will be crucial to see what works and what does not before our launch.
+ > * Testers: Testers will be college students who are given early access to our product. Their job is to try to break our product, provide feedback on their results, and use the product before others. Their feedback will be crucial to see what works and what does not before our launch.
 
 
 # 3. Functional requirements (features)
@@ -67,11 +67,11 @@
 
 **Post Condition**: The college student is entertained by gifs that they find entertaining and have a higher quality gif viewing experience\
 
-**Use Case** : Share GIF's with friends\
+**Use Case** : Share gifs with friends\
 **Actor**: College Student\
 **Description**: The college student will be able to share gifs with their friends\
 **Pre-Condition(s)**:
-- College student has an account ( if preferences not answered, show all GIF's )
+- College student has an account ( if preferences not answered, show all gifs )
 
 **Main Flow**
 - The use case begins when the college student signs in to their account
@@ -79,7 +79,7 @@
 - The use case ends when the college student exit the website or sign out
 
 **Alternative Flow**:
-- College Students can send a specific GIF to friend(s)
+- College Students can send a specific gif to friend(s)
 
 **Post Condition**: The college student is entertained by gifs that they find entertaining and have a higher quality gif viewing experience and can be satisfied that the GIF sent to friend is sent and received
 
@@ -88,15 +88,18 @@
  ![UI Example](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/UI%20Example.JPG)
  
 # 7. User Stories 
-- As a college student, I want to view gifs on a website so that I can be entertained.\ (Priority #1; approximately 25 hours)
+- As a college student, I want to view gifs on a website so that I can be entertained. (Priority #1; approximately 25 hours)
 - As a college student, I want to be able to view gifs personalized to my humor so that I have a more entertaining gif viewing experience.\
-(Priority #2; approximately 15 hours)		
+(Priority #2; approximately 15 hours)
 - As a college student, I want to be able to share gifs to my friends so they can view gifs that I find entertaining.\
 		(Priority #3; approximately 6 hours)
 - As a college student, I want to be able to have my own account so I dont have to answer the survey everytime. 
-(Priority #4; approximately 6 hours )
+(Priority #4; approximately 6 hours)
 - As a college student, I want to have a smooth experience so I can come back and use the app more frequently without issues. 
-(Priority #5; approximately 2 days )
+(Priority #5; approximately 2 days)
+- As a college student, I want to be able to have variable gif experiences, so that as I am looking for different kinds of humor, the results change.\
+(Priority #6; approximately 3 hours)
+- As a college student, I want to find and share gifs very quickly and efficiently. (Priority #7; approximately 3 hours)
 
 # 8. Issue Tracker
 ![Issue Tracker](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/d2-Nick/IssueTracking.JPG)\
