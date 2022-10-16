@@ -15,3 +15,6 @@ gifs, such as Giphy. This means that gifs will instead be stored with a *source 
 likes* a gif has will be stored as well, so that it can be recommended more often. Gifs will be recommended using a machine learning model that is trained 
 against the question data. The model will also compare gifs so that if multiple gifs are equally likely to be what the user is looking for, it will select 
 the one with more likes. The model will receive a user’s preferences as inputs and give back gifs as outputs. 
+
+2. Model
+> ![Alt text](Deliverable3_class_diagram.drawio.png)
