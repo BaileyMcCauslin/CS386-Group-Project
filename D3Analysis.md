@@ -17,4 +17,4 @@ against the question data. The model will also compare gifs so that if multiple 
 the one with more likes. The model will receive a user’s preferences as inputs and give back gifs as outputs. 
 
 2. Model
-> ![Alt text](Deliverable3_class_diagram.drawio.png)
+> ![Alt text](Deliverable3_class_diagram01.drawio.png)
