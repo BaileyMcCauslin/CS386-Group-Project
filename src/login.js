@@ -35,10 +35,11 @@ export function Login() {
 
     return(
        <div className='page'>
+        <div className = 'divPush'></div>
         <div className='main-login-card'>
-            <h1>Sign In</h1>
+            <h1 className = "titleAlign">Sign In</h1>
             <div>
-                <h2 className='email-head'>Email</h2>
+                <h2 className='email-head'>Enter your Email</h2>
                 <input
                   className='email-input'
                   type="text"
@@ -66,7 +67,7 @@ export function Login() {
             <div>
                 <button className='login-btn' onClick={ userLogin }>Login</button>
             </div>
-            <div>
+            <div className= "accountLink">
                 <Link to="/Signup">Don't have an account? Sign Up here</Link>
             </div>
         </div>
