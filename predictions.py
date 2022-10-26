@@ -53,5 +53,6 @@ def main():
     with open('search.json', 'w', encoding='utf-8') as outfile:
         outfile.write('{\"search_value\": \"' + prediction + '\"}')
 
+        
 if __name__ == '__main__':
     main()
