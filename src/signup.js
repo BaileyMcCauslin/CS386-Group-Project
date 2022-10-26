@@ -3,6 +3,8 @@ import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import auth from './firebase/firebaseConfig';
 import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';
+import './styles/login.css'
+import './styles/signup.css'
 
 export function SignUp() {
     const [ user, setUser ] = useState({
@@ -43,10 +45,14 @@ export function SignUp() {
     const navigate = useNavigate();
 
     return(
-        <div>
+        <div className = "page">
+        <div className = 'divPush'></div>
+          <div className = "main-login-card">
             <div>
-                <h1>Email</h1>
+              <h1 className = "titleAlign">Sign Up</h1>
+                <h2 className = "email-text">Email</h2>
                 <input
+                  className = "email-input"
                   type="text"
                   name='email'
                   value={ user.email }
@@ -57,18 +63,20 @@ export function SignUp() {
             </div>
 
             <div>
-            <h1>Password</h1>
+            <h2 className = "password-text">Password</h2>
             <input
-              type="text"
+              className = "email-input"
+              type="password"
               name='email'
               value={ user.password }
               label='Password'
               onChange={ text => setUser( { email: user.email , password: text.target.value } ) }
             ></input>
             
-            <h1>Re-enter Password</h1>
+            <h2 className = "password-text">Re-enter Password</h2>
             <input
-              type="text"
+              className = "email-input"
+              type="password"
               name='reenter'
               value={ reenter }
               label='reenter'
@@ -77,11 +85,12 @@ export function SignUp() {
             </div>
 
             <div>
-                <button onClick={ createUser }>Sign Up</button>
+                <button className = "login-btn" onClick={ createUser }>Sign Up</button>
             </div>
             <Link to="/">
                 Return to login
             </Link>
+            </div>
         </div>
     );
 }
