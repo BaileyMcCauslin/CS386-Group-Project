@@ -1,0 +1,11 @@
+.email-text,.password-text
+{
+    color: white;
+    
+    padding-top: 1rem;
+}
+
+.password-text
+{
+    padding-top: 2.5rem;
+}
