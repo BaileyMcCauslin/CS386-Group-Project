@@ -1,5 +1,5 @@
 Contributors:
 > * Andrew Usvat
 > * Cody Beck
-> * Bailey McCaulsin
+> * Bailey McCauslin
 > * Nick Henderson
