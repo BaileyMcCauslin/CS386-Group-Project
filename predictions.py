@@ -28,9 +28,7 @@ def main():
     args = parser.parse_args()
 
     # open the json file
-    with open(args.j, 'r+', encoding='utf-8') as json_file:
-        for line in json_file:
-            input_json = json.loads(line)
+    input_json = json.loads(args.j)
 
     # convert to dataframe
     input_json = {k: [v] for k, v in input_json.items()}
