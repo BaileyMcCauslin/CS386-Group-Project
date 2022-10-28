@@ -44,3 +44,4 @@ Which genre of movie would you like to watch?
 > * comedy
 > * horror
 > * action
+
