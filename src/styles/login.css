@@ -41,11 +41,14 @@
 
 .password-head
 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     color: white;
 }
 .email-head
 {
     padding-top: 3rem;
+    padding-bottom: 1rem;
     color: white;
 }
 

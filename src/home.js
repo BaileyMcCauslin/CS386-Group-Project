@@ -32,7 +32,7 @@ export function Home() {
     return(
         <div className = "page">
             <div className = "main-home-card">
-            <h1 className = "titleAlign">
+            <h1 className = "titleAlignHome">
                Welcome Home!<br></br> Here are some freshly baked jokes 
             </h1>
             <ul>
