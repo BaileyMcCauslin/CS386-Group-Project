@@ -25,7 +25,7 @@ export function Login() {
             signInWithEmailAndPassword( auth , user.email , user.password )
             .then( signedinuser => {
                 const currentUser = signedinuser.user;
-                    navigate('/Home');
+                    navigate('/Survey');
             })
             .catch( error => {
                alert("No User With Those Credentials");

@@ -1,0 +1,21 @@
+.survey-main {
+    height: 100%;
+    width: 35%;
+    background-color: black;
+    margin:auto;
+    align-items: center;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.survey-question {
+    color: white;
+}
+
+.survey-title {
+    color: white;
+}
+
+.submission-text {
+    color: white;
+}
