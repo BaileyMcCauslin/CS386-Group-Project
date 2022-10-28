@@ -35,7 +35,7 @@ Please refer to [CONTRIBUTING.md](https://github.com/BaileyMcCauslin/CS386-Group
 We are using SemVer for our releases. Check out the [tags](https://github.com/BaileyMcCauslin/CS386-Group-Project/tags) to see versions.
 
 ### Authors
-> * Bailey McCaulsin - *Backend* - CS386
+> * Bailey McCauslin - *Backend* - CS386
 > * Cody Beck - *Machine Learning* - CS386
 > * Andrew Usvat - *Frontend* - CS386
 > * Nick Henderson - *DevOps* - CS386
