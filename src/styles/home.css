@@ -18,14 +18,14 @@
     background-size: cover;
 }
 
-.titleAlign
+.titleAlignHome
 {
     padding-top: 4rem;
     color: white;
     
 }
 
-.titleAlign:after 
+.titleAlignHome:after 
 {
     content: ""; /* This is necessary for the pseudo element to work. */ 
     display: block; /* This will put the pseudo element on its own line. */
