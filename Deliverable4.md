@@ -9,9 +9,9 @@
   
 > Requirement: The college student will be able to complete a survey to find their gif preferences. <br>
   Issue: https://github.com/BaileyMcCauslin/CS386-Group-Project/issues/23 <br>
-  Pull Request: <br>
+  Pull Request: https://github.com/BaileyMcCauslin/CS386-Group-Project/pull/25<br>
   Implemented by: Bailey McCauslin <br>
-  Approved by: <br>
+  Approved by: Andrew Usvat<br>
   
 > 
 
@@ -38,6 +38,7 @@
 > We chose the MIT License. We chose this license for this permissibility. We liked that it allowed for many different uses, as we are all supporters of open source software. We also chose it because it provides no guarantees or warranties, and as this is student code, we do not want anyone to assume it to be perfect.
 
 # 8. Readme File
+> https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/README.md
 
 # 9. Look & feel
 
