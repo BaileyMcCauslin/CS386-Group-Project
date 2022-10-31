@@ -10,7 +10,7 @@
 > Requirement: The college student will be able to complete a survey to find their gif preferences. <br>
   Issue: https://github.com/BaileyMcCauslin/CS386-Group-Project/issues/23 <br>
   Pull Request: https://github.com/BaileyMcCauslin/CS386-Group-Project/pull/25<br>
-  Implemented by: Bailey McCauslin and Andrew Usvat<br>
+  Implemented by: Bailey McCauslin <br>
   Approved by: Andrew Usvat<br>
   
 > 
@@ -23,13 +23,17 @@ Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, et
 
 The framework we used to develop our tests for the ML prediction program was unittest.
 
-Link to your GitHub folder where your automated unit tests are located.
-[Link](https://github.com/BaileyMcCauslin/CS386-Group-Project/tree/testing)
+Link to your GitHub folder where your automated unit tests are located: [GitHub](https://github.com/BaileyMcCauslin/CS386-Group-Project/tree/testing)
+
 An example of a test case. Include in your answer a GitHub link to the class being tested and to the test.
-An example of a test case is:
+An example of a test case is: 
+```
 def test_transform(self):
-        self.assertEqual('no', p.transform_with_map([0]))
+    self.assertEqual('no', p.transform_with_map([0]))
+ ```
+
 [Class](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/predictions.py)
+<br>
 [Test](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/testing.py)
 
 A print screen showing the result of the execution of the automated tests. 
@@ -46,24 +50,15 @@ A print screen showing the result of the execution of the automated tests.
 
 > Pickle - We used pickle to save the trained ML model. Using pickle you can save entire objects and open them in different .py files. This made our code lightweight as we did not have to retrain the algorithm every time we use. 
 
-# 5. Learning/training 
-
-> * Bailey McCauslin - Im familiar with both react and firebase so the web development went really smoothly. However, I went over some of the technologies used in the ML model and made sure I understood what was happening in case help was needed. To learn this I collaborated with Cody who worked on the ML model. 
-
-> * Andrew Usvat -  I learned how to implement backend into the front end so the group could develop the web application faster. I took an online course on react and firebase implementation and also collaborated with Bailey to see how the implementation is done in our current application.
-
-> * Nick Henderson - I had no prior experience in react so learning it was a steep curve but I’m slowly learning the in’s and out’s of the framework. To learn to react I had watched many youtube videos and made a basic starter app to make sure I could apply my new react skills. I also asked a bunch of questions to the group members on how something would be implemented to react and it helped a lot.
-
-> * Cody Beck - I learned how to use scikit-learn. Previously, I had only used TensorFlow for machine learning. However, this was just a simple clustering problem, unlike image processing problems I had worked with in the past. Because of this, TensorFlow would have been overkill. Also I just wanted to get some experience working with scikit-learn so I knew how it compared to TensorFlow. To do this, I just watched some videos on Udemy about how sci-kit learn works. I also consulted their documentation to learn how to use their KMeans model. I also gained some more familiarity with Pandas from using it with scikit-learn. I had some previous experience with Pandas, but for this project, I actually had to use it in ways that I never had before. Because I had some exposure to Pandas, I just used the documentation to find the features I needed to use. 
-
+# 5. Learning/training
 
 # 6. Deployment
 
 # 7. Licensing
-> We chose the MIT License. We chose this license for this permissibility. We liked that it allowed for many different uses, as we are all supporters of open source software. We also chose it because it provides no guarantees or warranties, and as this is student code, we do not want anyone to assume it to be perfect.
+We chose the MIT License. We chose this license for this permissibility. We liked that it allowed for many different uses, as we are all supporters of open source software. We also chose it because it provides no guarantees or warranties, and as this is student code, we do not want anyone to assume it to be perfect.
 
 # 8. Readme File
-> https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/README.md
+https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/README.md
 
 # 9. Look & feel
 
@@ -76,6 +71,6 @@ The approach to the design is quite simple. We wanted to apply a simple theme th
 
 
 # 10. Lessons learned
-> We learned that we should make more time to deploy the application because it took longer than expected to accomplish deployment. We also learned the lesson of communicating on what dependencies we are going to use, we ran into a bunch of dependency discrepancies that could've been avoided if we just communicated. We also need to clean up our version control a little bit, it got messy at times. We also want to make sure everyone is in the loop about the technologies each of us specialize in so if we need to fix something and someone is not available, someone else will know how to work with that technology.
+We learned that we should make more time to deploy the application because it took longer than expected to accomplish deployment. We also learned the lesson of communicating on what dependencies we are going to use, we ran into a bunch of dependency discrepancies that could've been avoided if we just communicated. We also need to clean up our version control a little bit, it got messy at times. We also want to make sure everyone is in the loop about the technologies each of us specialize in so if we need to fix something and someone is not available, someone else will know how to work with that technology.
 
 # 11. Demo
