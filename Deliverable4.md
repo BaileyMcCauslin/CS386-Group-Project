@@ -27,26 +27,24 @@
 
 
 # 3. Tests
-You should implement automated tests that aim to verify the correct behavior of your code. Provide the following information:
-Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.):
+> You should implement automated tests that aim to verify the correct behavior of your code. Provide the following information:
+> Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.):
 
-The framework we used to develop our tests for the ML prediction program was unittest.
+> The framework we used to develop our tests for the ML prediction program was unittest.
 
-Link to your GitHub folder where your automated unit tests are located: [GitHub](https://github.com/BaileyMcCauslin/CS386-Group-Project/tree/testing)
+> Link to your GitHub folder where your automated unit tests are located: [GitHub](https://github.com/BaileyMcCauslin/CS386-Group-Project/tree/testing)
 
-An example of a test case. Include in your answer a GitHub link to the class being tested and to the test.
-An example of a test case is: 
+> An example of a test case. Include in your answer a GitHub link to the class being tested and to the test.
+> An example of a test case is: 
 ```
 def test_transform(self):
     self.assertEqual('no', p.transform_with_map([0]))
  ```
 
-[Class](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/predictions.py)
-<br>
-[Test](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/testing.py)
+> [Class](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/predictions.py) [Test](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/testing.py)
 
-A print screen showing the result of the execution of the automated tests. 
-![alt text](images/test.png "Test")
+> A print screen showing the result of the execution of the automated tests. 
+> ![alt text](images/test.png "Test")
 
 # 4. Adopted technologies
 > React JS - We are using React as our web framework because it allows for dynamic components, state handling, and easy styling. It’s extremely easy to load in GIF’s dynamically and route to different pages.  
@@ -71,15 +69,17 @@ A print screen showing the result of the execution of the automated tests.
 
 # 6. Deployment
 
+> Access our site using this [link](http://ec2-3-17-62-101.us-east-2.compute.amazonaws.com:3000/). Login with the email **admin@admin.com** and the password **admin01**. We are hosting the site using AWS. We are using an EC2 instance, and running our site through a Node.js server.
+
 # 7. Licensing
-We chose the MIT License. We chose this license for this permissibility. We liked that it allowed for many different uses, as we are all supporters of open source software. We also chose it because it provides no guarantees or warranties, and as this is student code, we do not want anyone to assume it to be perfect.
+> We chose the MIT License. We chose this license for this permissibility. We liked that it allowed for many different uses, as we are all supporters of open source software. We also chose it because it provides no guarantees or warranties, and as this is student code, we do not want anyone to assume it to be perfect.
 
 # 8. Readme File
-https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/README.md
+> https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/README.md
 
 # 9. Look & feel
 
-The approach to the design is quite simple. We wanted to apply a simple theme that sort of appeals to people who are joke enthusiasts and is similar to other joke sites but is unique at the same time. We used a unique color background theme and a set color scheme for all the text and implemented some cool front end design elements.
+> The approach to the design is quite simple. We wanted to apply a simple theme that sort of appeals to people who are joke enthusiasts and is similar to other joke sites but is unique at the same time. We used a unique color background theme and a set color scheme for all the text and implemented some cool front end design elements.
 
 ![alt text](images/login.png "Login")
 ![alt text](images/login_retry.png "Wrong Password")
@@ -88,6 +88,6 @@ The approach to the design is quite simple. We wanted to apply a simple theme th
 
 
 # 10. Lessons learned
-We learned that we should make more time to deploy the application because it took longer than expected to accomplish deployment. We also learned the lesson of communicating on what dependencies we are going to use, we ran into a bunch of dependency discrepancies that could've been avoided if we just communicated. We also need to clean up our version control a little bit, it got messy at times. We also want to make sure everyone is in the loop about the technologies each of us specialize in so if we need to fix something and someone is not available, someone else will know how to work with that technology.
+> We learned that we should make more time to deploy the application because it took longer than expected to accomplish deployment. We also learned the lesson of communicating on what dependencies we are going to use, we ran into a bunch of dependency discrepancies that could've been avoided if we just communicated. We also need to clean up our version control a little bit, it got messy at times. We also want to make sure everyone is in the loop about the technologies each of us specialize in so if we need to fix something and someone is not available, someone else will know how to work with that technology.
 
 # 11. Demo
