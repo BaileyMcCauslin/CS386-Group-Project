@@ -23,10 +23,10 @@ To make sure everything is correctly installed, change into the cloned repo and 
 > * [Pickle](https://docs.python.org/3/library/pickle.html) - The module we used to save the ML model
 
 ### Running the Tests
-Fill this out
+To run automated tests, clone this repository. Then run ```git fetch && git switch testing```. This should put you in the testing branch. Then all you have to do is run ```python -m unittest```.
 
 ### Deployment
-Fill this out
+The easiest way to deploy this application is using AWS. Simply get an EC2 server, [set up Node.js](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html), install python dependencies, and run ```npm start```.
 
 ### Contributing
 Please refer to [CONTRIBUTING.md](https://github.com/BaileyMcCauslin/CS386-Group-Project/main/CONTRIBUTING.md)
@@ -39,6 +39,7 @@ We are using SemVer for our releases. Check out the [tags](https://github.com/Ba
 > * Cody Beck - *Machine Learning* - CS386
 > * Andrew Usvat - *Frontend* - CS386
 > * Nick Henderson - *DevOps* - CS386
+
 See the list of [contributors](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/main/contributors.md)
 
 ### License
