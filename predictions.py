@@ -59,7 +59,7 @@ class Prediction:
         # make and save the prediction
         loaded_kmeans = pickle.load(open('model.sav', 'rb'))
         prediction = loaded_kmeans.predict(in_data)
-        prediction = transform_with_map(prediction)
+        prediction = self.transform_with_map(prediction)
         with open('search.json', 'w', encoding='utf-8') as outfile:
             outfile.write('{\"search_value\": \"' + prediction + '\"}')
         return prediction
