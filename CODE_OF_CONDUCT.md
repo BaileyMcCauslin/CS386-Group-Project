@@ -47,7 +47,7 @@ project can be further defined and clarified by the project maintainers.
 Application
 Cases of abusive, harassing or otherwise unacceptable behavior can
 be submitted by contacting the project team at
-[INSERT EMAIL ADDRESS]. All complaints will be examined and investigated and will give
+cjb873@nau.edu. All complaints will be examined and investigated and will give
 result in a response deemed necessary and appropriate in the circumstances. The
 project team is obligated to maintain confidentiality regarding
 the person who reported the case.
