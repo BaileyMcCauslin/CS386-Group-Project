@@ -58,6 +58,14 @@ A print screen showing the result of the execution of the automated tests.
 
 # 9. Look & feel
 
+The approach to the design is quite simple. We wanted to apply a simple theme that sort of appeals to people who are joke enthusiasts and is similar to other joke sites but is unique at the same time. We used a unique color background theme and a set color scheme for all the text and implemented some cool front end design elements.
+
+![alt text](images/login.png "Login")
+![alt text](images/login_retry.png "Wrong Password")
+![alt text](images/survey.png "Survey")
+![alt text](images/display.png "Display")
+
+
 # 10. Lessons learned
 
 # 11. Demo
