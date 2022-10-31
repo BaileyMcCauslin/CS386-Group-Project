@@ -56,6 +56,7 @@ published separately.
 Project maintainers who do not respect or apply the Code of
 Behavior in good faith may be affected temporarily or
 permanent as determined by other members leading the project.
-Attribution
+
+### Attribution
 This Code of Conduct is adapted by the Contributor Covenant,
 version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
