@@ -24,7 +24,7 @@ class Prediction:
         self.prediction = self.get_prediction(input_df)
 
         
-    def json_to_df():
+    def json_to_df(self):
         # get the argument for the json file
         input_json = None
         parser = argparse.ArgumentParser()
@@ -42,7 +42,7 @@ class Prediction:
         return pd.DataFrame(input_json)
 
 
-    def convert_one_hot(in_df):
+    def convert_one_hot(self, in_df):
         # transform the features
         cat_features = ["Music", "Game", "Activity", "Food", "Movie"]
         one_hot = OneHotEncoder()
@@ -55,7 +55,7 @@ class Prediction:
         return pd.DataFrame(features_transformed).tail(1)
 
 
-    def get_prediction(in_data):
+    def get_prediction(self, in_data):
         # make and save the prediction
         loaded_kmeans = pickle.load(open('model.sav', 'rb'))
         prediction = loaded_kmeans.predict(in_data)
@@ -65,7 +65,7 @@ class Prediction:
         return prediction
 
 
-    def transform_with_map(in_data):
+    def transform_with_map(self, in_data):
         mapping = {0: 'no', 1: 'dancing', 2: 'funny', 3: 'crying', 4: 'hello'}
         return mapping.get(in_data[0])
 
