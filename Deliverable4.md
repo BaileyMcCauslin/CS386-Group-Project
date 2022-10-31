@@ -1,4 +1,5 @@
 # 1. Introduction
+> Gif Machine is an online application that will give users a personal meme viewing experience that is tailored to them. The value of the application is giving users that personal aspect along with providing convenience. With GifMachine, people can log into their accounts. Each account will have their preference in gifs, along with their email address and password. Accounts will store preferences based on a series of questions, each one having multiple choices. The user can reset their preferences by simply answering the questions again. The gifs will appear sequentially, almost like TikTok shows videos. Instead, we will pull gifs from other sources that store gifs, such as Giphy. This means that gifs will instead be stored with a source URL and users can click on that to access the original gif.
 
 # 2. Implemented requirements
 > Requirement: As a college student, I want to be able to view gifs personalized to my humor so that I have a more entertaining gif viewing experience. <br>
