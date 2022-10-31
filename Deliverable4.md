@@ -18,6 +18,22 @@
 
 
 # 3. Tests
+You should implement automated tests that aim to verify the correct behavior of your code. Provide the following information:
+Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.):
+
+The framework we used to develop our tests for the ML prediction program was unittest.
+
+Link to your GitHub folder where your automated unit tests are located.
+[Link](https://github.com/BaileyMcCauslin/CS386-Group-Project/tree/testing)
+An example of a test case. Include in your answer a GitHub link to the class being tested and to the test.
+An example of a test case is:
+def test_transform(self):
+        self.assertEqual('no', p.transform_with_map([0]))
+[Class](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/predictions.py)
+[Test](https://github.com/BaileyMcCauslin/CS386-Group-Project/blob/testing/testing.py)
+
+A print screen showing the result of the execution of the automated tests. 
+![alt text](images/test.png "Test")
 
 # 4. Adopted technologies
 > React JS - We are using React as our web framework because it allows for dynamic components, state handling, and easy styling. It’s extremely easy to load in GIF’s dynamically and route to different pages.  
