@@ -69,7 +69,7 @@ def test_transform(self):
 
 # 6. Deployment
 
-> Access our site using this [link](http://ec2-3-17-62-101.us-east-2.compute.amazonaws.com:3000/). Login with the email **admin@admin.com** and the password **admin01**. We are hosting the site using AWS. We are using an EC2 instance, and running our site through a Node.js server.
+> Access our site using this [link](http://ec2-3-17-62-101.us-east-2.compute.amazonaws.com:3000/). Login with the email **admin@admin.com** and the password **admin01**, or create an account. We are hosting the site using AWS. We are using an EC2 instance, and running our site through a Node.js server.
 
 # 7. Licensing
 > We chose the MIT License. We chose this license for this permissibility. We liked that it allowed for many different uses, as we are all supporters of open source software. We also chose it because it provides no guarantees or warranties, and as this is student code, we do not want anyone to assume it to be perfect.
