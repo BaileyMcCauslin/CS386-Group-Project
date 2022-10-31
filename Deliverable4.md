@@ -6,14 +6,22 @@
   Pull request: https://github.com/BaileyMcCauslin/CS386-Group-Project/pull/22 <br>
   Implemented by: Cody Beck <br>
   Approved by: Bailey McCaulsin <br>
+  ![alt text](images/display.png "Gifs")
+  
   
 > Requirement: The college student will be able to complete a survey to find their gif preferences. <br>
   Issue: https://github.com/BaileyMcCauslin/CS386-Group-Project/issues/23 <br>
   Pull Request: https://github.com/BaileyMcCauslin/CS386-Group-Project/pull/25<br>
   Implemented by: Bailey McCauslin <br>
   Approved by: Andrew Usvat<br>
-  
-> 
+  ![alt text](images/survey.png "Survey")  
+
+> Requirement: As a college student, I want to be able to have my own account so I dont have to answer the survey everytime.
+  Issue:  https://github.com/BaileyMcCauslin/CS386-Group-Project/issues/11 <br>
+  Pull request: https://github.com/BaileyMcCauslin/CS386-Group-Project/pull/22 <br>
+  Implemented by: Bailey McCauslin and Andrew Usvat <br>
+  Approved by: Bailey McCauslin <br>
+  ![alt text](images/login.png "Login")
 
 
 
