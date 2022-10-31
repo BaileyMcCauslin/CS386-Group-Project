@@ -59,6 +59,14 @@ A print screen showing the result of the execution of the automated tests.
 > Pickle - We used pickle to save the trained ML model. Using pickle you can save entire objects and open them in different .py files. This made our code lightweight as we did not have to retrain the algorithm every time we use. 
 
 # 5. Learning/training
+> Bailey McCauslin - Im familiar with both react and firebase so the web development went really smoothly. However, I went over some of the technologies used in the ML model and made sure I understood what was happening in case help was needed. To learn this I collaborated with Cody who worked on the ML model. 
+
+> Andrew Usvat -  I learned how to implement backend into the front end so the group could develop the web application faster. I took an online course on react and firebase implementation and also collaborated with Bailey to see how the implementation is done in our current application.
+
+> Nick Henderson - I had no prior experience in react so learning it was a steep curve but I’m slowly learning the in’s and out’s of the framework. To learn to react I had watched many youtube videos and made a basic starter app to make sure I could apply my new react skills. I also asked a bunch of questions to the group members on how something would be implemented to react and it helped a lot.
+
+> Cody Beck - I learned how to use scikit-learn. Previously, I had only used TensorFlow for machine learning. However, this was just a simple clustering problem, unlike image processing problems I had worked with in the past. Because of this, TensorFlow would have been overkill. Also I just wanted to get some experience working with scikit-learn so I knew how it compared to TensorFlow. To do this, I just watched some videos on Udemy about how sci-kit learn works. I also consulted their documentation to learn how to use their KMeans model. I also gained some more familiarity with Pandas from using it with scikit-learn. I had some previous experience with Pandas, but for this project, I actually had to use it in ways that I never had before. Because I had some exposure to Pandas, I just used the documentation to find the features I needed to use. 
+
 
 # 6. Deployment
 
