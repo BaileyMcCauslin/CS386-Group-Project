@@ -19,7 +19,7 @@ class Prediction:
     def __init__(self):
         self.input_df = self.json_to_df()
         self.loaded_df = pickle.load(open('data.sav', 'rb'))
-        self.loaded_df = pd.concat([loaded_df, input_df], ignore_index=True)
+        self.loaded_df = pd.concat([self.loaded_df, self.input_df], ignore_index=True)
         self.input_df = self.convert_one_hot(loaded_df)
         self.prediction = self.get_prediction(input_df)
 
