@@ -15,7 +15,7 @@ import argparse
 
 
 class Prediction:
-    
+
     def __init__(self):
         self.input_df = self.json_to_df()
         self.loaded_df = pickle.load(open('data.sav', 'rb'))
@@ -23,7 +23,7 @@ class Prediction:
         self.input_df = self.convert_one_hot(self.loaded_df)
         self.prediction = self.get_prediction(self.input_df)
 
-        
+
     def json_to_df(self):
         # get the argument for the json file
         input_json = None
@@ -71,7 +71,7 @@ class Prediction:
 
 def main():
     prediction = Prediction()
-    
-    
+
+
 if __name__ == '__main__':
     main()
