@@ -1,6 +1,6 @@
 .page {
     background-image: url(https://st2.depositphotos.com/3539679/9552/v/600/depositphotos_95522326-stock-illustration-comic-strip-background.jpg);
-    height: 50rem;
+    height: 100%;
     width: 100%;
     position: fixed;
 }
@@ -25,12 +25,13 @@
 }
 
 .login-btn {
-    height: 20px;
+    height: 30px;
     width: 5rem;
-
+    border-radius: 1rem;
     background-color: yellow;
     border: 1px solid yellow;
     margin-top: 20px;
+    margin-bottom: 2rem;
 }
 .password-input {
     border-radius: 0.5rem;
@@ -40,11 +41,14 @@
 
 .password-head
 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     color: white;
 }
 .email-head
 {
     padding-top: 3rem;
+    padding-bottom: 1rem;
     color: white;
 }
 
