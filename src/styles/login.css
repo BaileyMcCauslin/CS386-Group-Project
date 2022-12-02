@@ -1,0 +1,77 @@
+.page {
+    background-image: url(https://st2.depositphotos.com/3539679/9552/v/600/depositphotos_95522326-stock-illustration-comic-strip-background.jpg);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+.divPush
+{
+    margin-top: 3rem;
+}
+.main-login-card {
+    
+    height: 40rem;
+    width: 35%;
+    background-color: black;
+    margin:auto;
+    align-items: center;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.email-input {
+    border-radius: 0.5rem;
+    border: 1px solid white;
+}
+
+.login-btn {
+    height: 30px;
+    width: 5rem;
+    border-radius: 1rem;
+    background-color: yellow;
+    border: 1px solid yellow;
+    margin-top: 20px;
+    margin-bottom: 2rem;
+}
+.password-input {
+    border-radius: 0.5rem;
+    border: 1px solid white;
+
+}
+
+.password-head
+{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    color: white;
+}
+.email-head
+{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    color: white;
+}
+
+.titleAlign
+{
+    padding-top: 4rem;
+    color: white;
+    
+}
+
+.titleAlign:after 
+{
+    content: ""; /* This is necessary for the pseudo element to work. */ 
+    display: block; /* This will put the pseudo element on its own line. */
+    margin-left: 38%; /* This will center the border. */
+    width: 9vw; /* Change this to whatever width you want. */
+    padding-top: 0.4rem; /* This creates some space between the element and the border. */
+    margin-top: 1rem;
+    background-image: linear-gradient(90deg,white,yellow); 
+}
+
+.accountLink
+{
+    padding-top: 5rem;
+    color: yellow;
+}
