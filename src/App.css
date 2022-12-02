@@ -1,0 +1,12 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.homeBackground
+{
+  background-color: grey;
+  height: 100rem;
+  width: 100%;
+}
