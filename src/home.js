@@ -1,11 +1,13 @@
 import React from 'react';
-import { json } from 'react-router-dom';
-import './styles/home.css';
-import gifCard from './components/gifCard';
-import { signOut, getAuth } from 'firebase/auth';
-import { useNavigate, Link } from 'react-router-dom';
+import json  from 'react-router-dom';
+import signOut from 'firebase/auth';
+import getAuth from 'firebase/auth';
+import useNavigate from 'react-router-dom';
+import Link from 'react-router-dom';
 
 const APIKEY = "Cu6D3J7fGIApf34bTdrZKkVTMZTikPwb"; 
+
+
 
 export function Home() {
     const [ card, setCards ] = React.useState([]);
@@ -40,23 +42,12 @@ export function Home() {
     }
 
     return(
-        <div className = "page">
-            <div className = "main-home-card">
-            <button className='logoutBtn' onClick={ signOutUser }>Logout</button>
-            <h1 className = "titleAlignHome">
-               Welcome Home!<br></br> Here are some freshly baked jokes 
-            </h1>
-            <ul>
-                { card.map(( item, index ) => {
-                return(
-                    <iframe className='gif' src={ item }></iframe>
-                )})}
-            </ul>
-            </div>
-        </div>
+        "<div className = \"page\"> <div className = \"main-home-card\"> <button className=\'logoutBtn\' onClick={ signOutUser }>Logout</button> <h1 className = \"titleAlignHome\"> Welcome Home!<br></br> Here are some freshly baked jokes </h1> <ul> { card.map(( item, index ) => { return( <iframe className='gif' src={ item }></iframe> )})} </ul> </div> </div>"
     );
 }
 /*
 https://giphy.com/embed/FuUaHVsmk5D4IlgsUr
 })}
 */
+
+
