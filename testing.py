@@ -1,37 +1,44 @@
 import unittest
+from unittest.mock import Mock
 import pandas as pd
-import pickle
-from predictions import Prediction
 
 
 class TestPredictions(unittest.TestCase):
 
-
     def test_json_to_df(self):
-        p = Prediction()
-        data = ['folk', 'risk', 'watching', 'apple', 'drama']
-        df = pd.DataFrame(data).T
-        self.assertEqual(df.values.tolist(), p.json_to_df().values.tolist())
+        p = Mock()
+        p.json_to_df.return_value = pd.DataFrame({'Music': ['folk'],
+                                                  'Game': ['risk'],
+                                                  'Activity': ['watching'],
+                                                  'Food': ['apple'],
+                                                  'Movie': ['drama']})
+        self.assertEqual(pd.DataFrame, type(p.json_to_df()))
 
     def test_prediction(self):
-        p = Prediction()
-        in_df = pickle.load(open('input_df.sav', 'rb'))
-        self.assertEqual('crying', p.get_prediction(in_df))
+        p = Mock()
+        p.get_prediction.return_value = 'crying'
+        self.assertEqual(str, type(p.get_prediction()))
+        self.assertEqual('crying', p.get_prediction())
 
     def test_convert(self):
-        p = Prediction()
-        loaded_df = pickle.load(open('loaded_df.sav', 'rb'))
-        data = [1.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,  1.0,  0.0,  0.0,
-                0.0,  0.0,  1.0,  1.0,  0.0,  0.0,  0.0,  0.0,  0.0,  0.0,
-                1.0,  0.0]
+        p = Mock()
+        loaded_df = pd.DataFrame({'Music': ['folk'], 'Game': ['risk'],
+                                  'Activity': ['watching'], 'Food': ['apple'],
+                                  'Movie': ['drama']})
+        data = [1.0,  1.0,  1.0,  1.0,  1.0]
         df = pd.DataFrame(data).T
-        df = df.set_index(pd.Index([50]))
+        df = df.set_index(pd.Index([1]))
+        p.convert_one_hot.return_value = \
+            pd.DataFrame([1.0, 1.0, 1.0, 1.0, 1.0]).T
         self.assertEqual(df.values.tolist(),
                          p.convert_one_hot(loaded_df).values.tolist())
+        self.assertEqual(type(p.convert_one_hot()), pd.DataFrame)
 
     def test_transform(self):
-        p = Prediction()
+        p = Mock()
+        p.transform_with_map.return_value = 'no'
         self.assertEqual('no', p.transform_with_map([0]))
+        self.assertEqual(str, type(p.transform_with_map([0])))
 
 
 if __name__ == '__main__':
